@@ -1,0 +1,12 @@
+ro.hardware=samsungexynos7880
+ro.chipname=exynos7880
+ro.arch=exynos7880
+ro.boot.bootdevice=13540000.dwmmc0
+ro.lcd_min_brightness=0
+ro.lcd_brightness=162
+ro.sf.lcd_density=480
+persist.sys.usb.config=mtp,adb
+#
+# system.prop for a7y17lte
+#
+
